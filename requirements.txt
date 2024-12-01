@@ -5,4 +5,4 @@ statsmodels==0.14.0
 streamlit==1.26.0
 yfinance==0.2.26
 financedatabase==2.0.1
-pillow>=9.0
+pillow>=9.5.0
