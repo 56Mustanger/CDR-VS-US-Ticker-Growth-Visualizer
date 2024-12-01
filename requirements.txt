@@ -356,7 +356,6 @@ pyobjc-framework-VideoToolbox==8.0
 pyobjc-framework-Virtualization==8.0
 pyobjc-framework-Vision==8.0
 pyobjc-framework-WebKit==8.0
-pyodbc===4.0.0-unsupported
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
 pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
 pyperclip==1.8.2
